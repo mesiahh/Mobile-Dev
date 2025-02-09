@@ -1,0 +1,14 @@
+D:\acads\2nd Year\Second Sem\DeckofCardsApp\bin\Debug\net9.0\DeckofCardsApp.exe
+D:\acads\2nd Year\Second Sem\DeckofCardsApp\bin\Debug\net9.0\DeckofCardsApp.deps.json
+D:\acads\2nd Year\Second Sem\DeckofCardsApp\bin\Debug\net9.0\DeckofCardsApp.runtimeconfig.json
+D:\acads\2nd Year\Second Sem\DeckofCardsApp\bin\Debug\net9.0\DeckofCardsApp.dll
+D:\acads\2nd Year\Second Sem\DeckofCardsApp\bin\Debug\net9.0\DeckofCardsApp.pdb
+D:\acads\2nd Year\Second Sem\DeckofCardsApp\obj\Debug\net9.0\DeckofCardsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\acads\2nd Year\Second Sem\DeckofCardsApp\obj\Debug\net9.0\DeckofCardsApp.AssemblyInfoInputs.cache
+D:\acads\2nd Year\Second Sem\DeckofCardsApp\obj\Debug\net9.0\DeckofCardsApp.AssemblyInfo.cs
+D:\acads\2nd Year\Second Sem\DeckofCardsApp\obj\Debug\net9.0\DeckofCardsApp.csproj.CoreCompileInputs.cache
+D:\acads\2nd Year\Second Sem\DeckofCardsApp\obj\Debug\net9.0\DeckofCardsApp.dll
+D:\acads\2nd Year\Second Sem\DeckofCardsApp\obj\Debug\net9.0\refint\DeckofCardsApp.dll
+D:\acads\2nd Year\Second Sem\DeckofCardsApp\obj\Debug\net9.0\DeckofCardsApp.pdb
+D:\acads\2nd Year\Second Sem\DeckofCardsApp\obj\Debug\net9.0\DeckofCardsApp.genruntimeconfig.cache
+D:\acads\2nd Year\Second Sem\DeckofCardsApp\obj\Debug\net9.0\ref\DeckofCardsApp.dll
